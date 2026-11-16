@@ -1,0 +1,8 @@
+# Keystore & sensitive keys
+quicksender
+*.jks
+*.keystore
+
+# IDE & Editor files
+.idea/
+*.iml
